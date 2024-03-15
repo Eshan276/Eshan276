@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS, Web3, Machine Learning**
 
-- 💬 Ask me about **AWS, Javascript, Node**
+- 💬 Ask me about **AWS, Javascript, Node, Python**
 
 - 📫 How to reach me **eshandas2002@gmail.com**
 - <strong>My website</strong> <a href="https://cloudresumeshan.s3.ap-south-1.amazonaws.com/index.html" target="_blank" rel="noreferrer"> Clickhere</a> 
